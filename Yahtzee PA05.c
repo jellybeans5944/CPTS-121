@@ -1,7 +1,7 @@
 /*
 Name: Anelica Heneghan
 Date: 10/23/19
-Descrption: This game will contruct yahtzee. The rules are as follows:
+Descrption: This game will construct yahtzee. The rules are as follows:
 *	The scorecard used for Yahtzee is composed of two sections.A upper sectionand a lower section.
 *	A total of thirteen boxes or thirteen scoring combinations are divided amongst the sections.
 *	The upper section consists of boxes that are scored by summing the value of the dice matching the faces of the box.
